@@ -1,8 +1,8 @@
-# FIBOS 节点状态监控器
+# FIBOS 出块节点状态监控器
 
 [![GitHub Actions Workflow Status](https://github.com/fibos123/monitor_fibos_node/actions/workflows/monitor_fibos_node.yml/badge.svg)](https://github.com/fibos123/monitor_fibos_node/actions/workflows/monitor_fibos_node.yml)
 
-这是一个使用 GitHub Actions 和 Python 实现的自动化监控项目，用于定期检查一个或多个指定的 FIBOS 区块链节点的状态。当发现有节点处于异常状态时，它会通过电子邮件发送一封格式可自定义的合并警报。
+这是一个使用 GitHub Actions 和 Python 实现的自动化监控项目，用于定期检查一个或多个指定的 FIBOS 区块链出块节点的状态。当发现有出块节点处于异常状态时，它会通过电子邮件发送一封格式可自定义的合并警报。
 
 ## ✨ 功能特性
 
